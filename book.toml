@@ -1,0 +1,6 @@
+[book]
+authors = ["Bharath & Prateek"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Dynamic Instrumentation with Frida on Linux & Android"
