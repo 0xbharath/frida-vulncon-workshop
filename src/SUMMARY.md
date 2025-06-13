@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Basics of Frida on Android](./frida_on_android.md)
+- [Setup](./setup.md)
