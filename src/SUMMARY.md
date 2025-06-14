@@ -1,10 +1,10 @@
 # Summary
 
+- [Workshop details](./workshop.md)
 
 # Linux
 
-- [Workshop details](./workshop.md)
-- [Setup for Linux](./linux/setup_linux.md)
+- [Setup for Linux](./linux/setup.md)
 - [Intro to Frida](./linux/intro.md)
 - [Basic Instrumentation with Frida](./linux/basics.md)
 - [Memory manipulation](./linux/memory-scan.md)

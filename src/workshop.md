@@ -1,15 +1,16 @@
 # Workshop details
 
-- This is a beginner friendly, scenario driven, hands-on workshop on binary instrumentation using Frida in `*nix` environments
+- This is a beginner friendly, scenario driven, hands-on workshop on binary instrumentation using Frida in `*nix` environments and Android
 - We’ll understand some low level details of dynamic instrumentation and move towards using high level tools like Frida to instrument binaries
 - We’ll leverage Frida as a framework to build simple custom tools/utilities
 
-> In short, we want you to try Frida natively on Linux and gain enough knowledge to explore further on your own.
+> In short, we want you to try Frida natively on Linux and on Android to gain enough knowledge to explore further on your own.
 
 # Skill prerequisites
 
 - Basics of JavaScript
 - Moderate understanding of Linux Operating System (commands, processes etc)
+- Basics of Android security testing
 - Basic usage of Docker (Instructions will be provided)
 - Comfortable with basic operations on your host Operating System. (copying files, using text editor)
 
