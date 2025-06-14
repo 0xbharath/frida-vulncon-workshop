@@ -4,7 +4,7 @@
 - Download android studio and configure an emulator with API 28 or above
 - Please refer the emulator setup guide [here](https://developer.android.com/studio/run/managing-avds). 
 **Note: Download an emulator where there is not playstore icon in the playstore column as shown below**
-<img src="./images/no-playstore.png">
+<img src="./images/no-playstore.png"> 
 
 - Check your cpu type using the following command - ``adb shell getprop ro.product.cpu.abilist``
 - Download the frida-server according to your architecture of the emulator from [here](https://github.com/frida/frida/releases)
