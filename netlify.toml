@@ -1,3 +1,9 @@
 [build]
-command = "cargo install mdbook --locked && mdbook build"
+command = """
+curl https://sh.rustup.rs -sSf | sh -s -- -y && \
+source $HOME/.cargo/env && \
+rustup default stable && \
+cargo install mdbook --locked && \
+mdbook build
+"""
 publish = "book"
