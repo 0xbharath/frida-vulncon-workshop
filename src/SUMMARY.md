@@ -8,3 +8,5 @@
 - [Modules Enumerate Exports](./module_enum_exports.md)
 - [Enumerate Loaded Classes](./java_enum_loaded_classes.md)
 - [Android Lifecycle Hooking](./android_lifecycle.md)
+- [BugBazaar Easy Bypass](./bugbazaar_easy_bypass.md)
+- [BugBazaar Intermittent Bypass](./bugbazaar_intermittent_bypass.md)
