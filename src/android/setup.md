@@ -25,7 +25,7 @@
 
 ## Download the APKs
 
-[https://dlabs-training.s3.us-west-1.amazonaws.com/BugBazaar-latest.apk](https://dlabs-training.s3.us-west-1.amazonaws.com/Facebook.apk)
+[https://dlabs-training.s3.us-west-1.amazonaws.com/Facebook.apk](https://dlabs-training.s3.us-west-1.amazonaws.com/Facebook.apk)
 
 [https://dlabs-training.s3.us-west-1.amazonaws.com/RootBeer.apk](https://dlabs-training.s3.us-west-1.amazonaws.com/RootBeer.apk)
 
