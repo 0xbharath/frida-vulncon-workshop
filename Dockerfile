@@ -5,9 +5,6 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 # Update package lists and install necessary dependencies
 RUN apt-get update && apt-get install -y \
-    gdb \
-    strace \
-    ltrace \
     tmux \
     build-essential \
     git \
