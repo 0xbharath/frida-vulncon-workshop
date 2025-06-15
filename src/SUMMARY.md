@@ -7,12 +7,10 @@
 - [Setup for Linux](./linux/setup.md)
 - [Intro to Frida](./linux/intro.md)
 - [Basic Instrumentation with Frida](./linux/basics.md)
-- [Memory manipulation](./linux/memory-scan.md)
-- [Register manipulation](./linux/register.md)
-- [Writer manipulatin](./linux/writer.md)
-- [Intro to Stalker](./linux/stalker.md)
-- [Credits & References](./linux/references.md)
-- [Where to learn more?](./linux/more.md)
+#- [Memory manipulation](./linux/memory-scan.md)
+#- [Register manipulation](./linux/register.md)
+#- [Writer manipulatin](./linux/writer.md)
+#- [Intro to Stalker](./linux/stalker.md)
 
 # Android 
 
@@ -26,3 +24,8 @@
 - [Android Lifecycle Hooking](./android/android_lifecycle.md)
 - [BugBazaar Easy Bypass](./android/bugbazaar_easy_bypass.md)
 - [BugBazaar Intermittent Bypass](./android/bugbazaar_intermittent_bypass.md)
+
+# Misc
+
+- [Credits & References](./linux/references.md)
+- [Where to learn more?](./linux/more.md)
