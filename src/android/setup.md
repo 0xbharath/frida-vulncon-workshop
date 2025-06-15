@@ -19,7 +19,6 @@
 - Give the permissions to execute: ``adb shell "chmod 755 /data/local/tmp/frida-server"``
 - Start the frida server: ``adb shell "/data/local/tmp/frida-server &"``
 
-
 ### Check the setup:
 - Run the following command to check if the environment was set properly:
 ``frida-ps -Uai``
