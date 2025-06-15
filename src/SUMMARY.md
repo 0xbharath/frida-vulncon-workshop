@@ -7,12 +7,15 @@
 - [Setup for Linux](./linux/setup.md)
 - [Intro to Frida](./linux/intro.md)
 - [Basic Instrumentation with Frida](./linux/basics.md)
+- [Game manipulation](./linux/game_manipulation.md)
 #- [Memory manipulation](./linux/memory-scan.md)
 #- [Register manipulation](./linux/register.md)
 #- [Writer manipulatin](./linux/writer.md)
 #- [Intro to Stalker](./linux/stalker.md)
 
+
 # Android 
+
 
 - [Setup](./android/setup.md)
 - [Basics of Frida on Android](./android/frida_on_android.md)
