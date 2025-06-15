@@ -20,18 +20,23 @@ Easiest way to follow along the workshop is to use the labs at [https://killerco
 
 ## Few things about the lab environment
 
-1. You can work with `bash` shell in the labs but `tmux` is installed and preferred. Use `tmux` cheatsheet for common commands https://tmuxcheatsheet.com/
+1. You can work with `bash` shell in the labs but `tmux` is installed and preferred. Use `tmux` cheatsheet for common commands [https://tmuxcheatsheet.com/](https://tmuxcheatsheet.com/)
 2. `~/frida-vulncon-workshop/exercises` directory contains all the hands-on exercises related files
 3. There is a Python virtual environment in `~/frida-playground` which all the necessary packages. To use this virtual environment, use the following commands:
 
 ```
-# To activate the environment
+# To activate the environment (without tmux)
 
 cd ~/frida-playground
 source ~/.venv/bin/activate
+
+# To activate the environment (with tmux)
+
+tmux new-session -c ~/frida-playground/ -n frida-workshop 'bash --rcfile <(echo "source ./venv/bin/activate; exec bash")'
 
 # To install any additional python packages
 
 uv pip install <package_name>
 ```
+
 

@@ -10,5 +10,10 @@ Frida is a **dynamic code instrumentation toolkit**. It lets you **inject snippe
 
 - Frida tools
 - Frida REPL 
+- Frida APIs
 - Frida bindings
 - More thing ...
+
+## Best intro to all things Frida
+
+[https://frida.re/docs/home/](https://frida.re/docs/home/)
